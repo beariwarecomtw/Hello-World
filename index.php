@@ -1,3 +1,3 @@
 <?php
-	phpinfo();
+	echo('第二次上傳');
 ?>
